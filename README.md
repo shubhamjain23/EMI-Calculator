@@ -12,9 +12,11 @@ This macro has 2 UserForms, 1 ClassFile and 14 Modules.
 
 ## UserForms
 1. **calc_ufm** : 
+
 ![EMI Calculator](calc_ufm.PNG)
 
 2. **Mail_Ufm** :
+
 ![Mail Options](Mail_Ufm.PNG)
 
 ## ClassFiles
