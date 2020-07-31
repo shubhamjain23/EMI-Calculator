@@ -11,7 +11,8 @@ It contains two files named `Bank Details.xlsx` and `EMI Calculator.xlsm`
 This macro has 2 UserForms, 1 ClassFile and 14 Modules.
 
 ## UserForms
-1. **calc_ufm** :
+1. **calc_ufm** : 
+![EMI Calculator] (https://github.com/shubhamjain23/EMI-Calculator/blob/master/VBAProject%20(EMI%20Calculator.xlsm)/Forms/Mail_Ufm.PNG)
 
 2. **Mail_Ufm** :
 
