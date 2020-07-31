@@ -82,7 +82,7 @@ Private Sub name_tbx_KeyPress(ByVal KeyAscii As MSForms.ReturnInteger)
 End Sub
 
 Private Sub loan_amt_tbx_KeyPress(ByVal KeyAscii As MSForms.ReturnInteger)
-    If Not (Len(tenor_tbx.Value) < 10) Then
+    If Not (Len(loan_amt_tbx.Value) < 10) Then
         KeyAscii = 0
     End If
     Select Case KeyAscii
