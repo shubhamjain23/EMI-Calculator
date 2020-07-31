@@ -12,7 +12,10 @@ This macro has 2 UserForms, 1 ClassFile and 14 Modules.
 
 ## UserForms
 1. **calc_ufm** : 
-![EMI Calculator] (https://github.com/shubhamjain23/EMI-Calculator/blob/master/VBAProject%20(EMI%20Calculator.xlsm)/Forms/Mail_Ufm.PNG)
+
+![EMI Calculator] (https://github.com/shubhamjain23/EMI-Calculator/blob/master/VBAProject%20(EMI%20Calculator.xlsm)/Forms/Mail_Ufm.PNG?raw=true)
+
+![EMI](VBAProject (EMI Calculator.xlsm)/Forms/calc_ufm.PNG)
 
 2. **Mail_Ufm** :
 
